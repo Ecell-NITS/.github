@@ -25,6 +25,7 @@ At E-Cell, NIT Silchar, our mission is to:
 Here you will find repositories for our various projects and initiatives. These may include:
 
 - [Huls-Coffee-House](https://github.com/Ecell-NITS/huls-coffee-house)
+- [Incand24-frontend](https://github.com/Ecell-NITS/Incand24-frontend)
 - [e-cell-website-22](https://github.com/Ecell-NITS/e-cell-website-22)
 - [e-cell-website-22-api](https://github.com/Ecell-NITS/e-cell-website-22-api)
 - [ecell-recruitment-23-api](https://github.com/Ecell-NITS/ecell-recruitment-23-api)
